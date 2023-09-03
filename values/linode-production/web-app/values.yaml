@@ -11,4 +11,4 @@ ingress:
   tls:
    - secretName: cluster1-infotech-asia-com-tls
      hosts:
-       - cluster1.infotech-asia-com-tls
+       - cluster1.infotech-asia.com
